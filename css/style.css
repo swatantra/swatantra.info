@@ -1,0 +1,158 @@
+html {
+	background: rgba(0, 0, 0, 0) url("../images/bg.jpg") no-repeat fixed center center / cover;
+}
+
+body {
+	background: #fffff; 
+ 	/*background: #21211f; */
+	width: 995px;
+	font-family: helvetica, arial, sans-serif;
+	margin: 0 auto;
+	padding: 40px 0 0 0;
+}
+
+.header{
+	width: 702px;
+	float: left;
+	clear: both;
+	padding: 0;
+	margin: 0 0 10px 0;
+}
+
+h1 img{
+	float: left;
+	padding: 0;
+	margin: 0;
+}
+
+#content{
+	width: 612px;
+	/*height: 200px;*/
+	/*background: #466287 url(images/corner.jpg) top right no-repeat;*/
+	background: #466287 top right no-repeat;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: Georgia, times, serif;
+	margin: 0 0 10px 0;
+	float: left;
+	clear: both;
+	color: #ffffff;
+	/*padding: 20px 60px 20px 30px;*/
+	padding: 20px 45px 20px 45px;
+	text-align: justify;
+}
+
+#footer{
+	width: 702px;
+	float: left;
+	clear: both;
+	padding: 0;
+	margin: 0 0 10px 0;
+}
+
+a, a:visited{
+	text-decoration: none;
+	color: #666666;
+	font-size: 11px;
+}
+
+a:hover, a:hover:visited{
+	text-decoration: none;
+	color: #666666;
+}
+
+#footerLink a, a:visited, a:hover, a:hover:visited {
+	text-decoration: none;
+	color: #466287;
+	font-size: 11px;
+}
+
+.footer {
+	font-size: 11px;
+}
+
+img {
+	border: none;
+}
+
+p.copy {
+	float: left;
+	font-size: 11px;
+	color: #444444;
+	padding: 5px 0 5px 0;
+}
+
+p.social {
+	background: url(images/twitter.jpg) center right no-repeat;
+	float: right;
+	font-size: 11px;
+	color: #444444;
+	padding: 5px 30px 5px 0;
+}
+
+p.tagline {
+	font-family: georgia, times, serif;
+	font-style: italic;
+	float: right;
+	font-size: 18px;
+	color: #666666;
+	padding: 15px 52px 0 0;
+}
+
+.form{
+	margin: 15px 0;
+	padding: 20px 0 20px 0;
+	/*background: url(form1.jpg) no-repeat;*/
+	font-family: helvetica, arial, sans-serif;
+}
+
+.formname{
+	background: #FFFFFF;
+	font-family: helvetica, arial, sans-serif;
+	color: #000000;
+	padding: 10px;
+	border: 1px solid #30435D;
+	font-size: 18px;
+	margin: 0 15px 0 0;
+	width: 170px;
+	font-weight: bold;
+}
+
+.sendform{
+	background: #6288BC;
+	font-family: helvetica, arial, sans-serif;
+	color: #ffffff;
+	cursor: pointer;
+	font-size: 18px;
+	padding: 10px;
+	border: 1px solid #7DAEF0;
+	margin: 0 0 0 0;
+	font-weight: bold;
+}
+
+.dot_line_5x1 {
+	background-image: url("../images/dot_line_5x1.gif");
+	background-repeat: repeat-x;
+}
+
+.punchLine {
+	float: right;
+	padding-top: 50px;
+	color: #466287;
+	font-size: 26px;
+}
+
+.article {
+	float: left;
+}
+
+.userMessage {
+	color: #ffffff;
+	font-size: 12px;
+}
+
+.twitter-widget-box-swatantra {
+	float: left;
+	width: 250px;
+	margin: 40px 10px 0px 30px;
+}
